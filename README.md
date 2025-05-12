@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bmanish55&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmanish55&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bmanish55&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
