@@ -12,7 +12,7 @@ I’m open to collaborating on meaningful projects, startups, and backend-heavy 
 ## 🌐 Socials:
 [![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/b_manishhh)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/manishbhavar/)
-[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mbhavar2121@gmail.com)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mbhavar.dev@gmail.com)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-F1C21B?logo=netlify&logoColor=black&style=flat-square)](https://manishbhavar.in/)
 
 # 💻 Tech Stack:
